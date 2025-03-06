@@ -16,12 +16,4 @@ Description: Cleaning and preprocessing raw data to ensure accuracy and consiste
 Tech Stack: SQL
 Link: https://github.com/Bern1999/PortProjects
 
-🔹 Project 3 - [Project Name]
-
-Description: Highlight what makes this project interesting.
-Tech Stack: SQL, [Other Technologies]
-Repo Link: GitHub Repository
-
-🛠️ Technologies & Tools
-
 Programming Languages: SQL
